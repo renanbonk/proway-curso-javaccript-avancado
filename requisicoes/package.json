@@ -1,0 +1,22 @@
+{
+  "name": "requisicoes",
+  "version": "1.0.0",
+  "description": "Exemplo de como ultilizar requisições",
+  "main": "marcas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbonk/proway-curso-javaccript-avancado.git"
+  },
+  "author": "Renan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanbonk/proway-curso-javaccript-avancado/issues"
+  },
+  "homepage": "https://github.com/renanbonk/proway-curso-javaccript-avancado#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

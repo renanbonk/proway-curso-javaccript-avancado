@@ -1,0 +1,96 @@
+{
+  "marcas": [
+    {
+      "id": "1",
+      "nome": "Apple"
+    },
+    {
+      "id": "2",
+      "nome": "Sansung"
+    },
+    {
+      "id": "e85e",
+      "nome": "intel"
+    },
+    {
+      "nome": "Jurema",
+      "id": "b0c2"
+    },
+    {
+      "id": "17f3",
+      "nome": "Razer"
+    },
+    {
+      "id": "ed1f",
+      "nome": "intel"
+    },
+    {
+      "id": "235e",
+      "nome": "Razer"
+    },
+    {
+      "id": "152c",
+      "nome": "intel"
+    },
+    {
+      "id": "ac58",
+      "nome": "Razer"
+    },
+    {
+      "id": "29f2",
+      "nome": "intel"
+    },
+    {
+      "id": "c67a",
+      "nome": "Razer"
+    },
+    {
+      "id": "3adb",
+      "nome": "Nvidia"
+    }
+  ],
+  "filmes": [
+    {
+      "id": "1",
+      "nome": "Avangers",
+      "duracao": 180,
+      "classificacao": 5
+    },
+    {
+      "id": "ebfb",
+      "nome": "Dedpoll",
+      "duracao": "180 min",
+      "classificacao": "Adulto"
+    },
+    {
+      "id": "8160",
+      "nome": "Nvidia"
+    },
+    {
+      "id": "e702",
+      "nome": "Pica Pau",
+      "duracao": "180 min",
+      "classificacao": "Comedia"
+    }
+  ],
+  "estados": [
+    {
+      "id": "bd5f",
+      "nome": "Santa Catarina",
+      "sigla": "SC"
+    },
+    {
+      "id": "9454",
+      "nome": "Santa Catarina",
+      "sigla": "SC"
+    },
+    {
+      "id": "ff09"
+    },
+    {
+      "id": "e4a6",
+      "nome": "Paraná",
+      "sigla": "PR"
+    }
+  ]
+}
